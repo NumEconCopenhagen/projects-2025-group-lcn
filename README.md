@@ -1,9 +1,9 @@
-# [Group name]
+# Group Name: Group LCN
 
 **Group members:**
-- A
-- B
-- C
+- Lovedeep Kaur Sran
+- Paula Camilla Renée Karnau
+- Nicolas Thomas
 
 **This repository contains:***
 
